@@ -3,13 +3,13 @@
 ### Week 1/2
 - Learn Internet/Web
 - Learn HTTP/Networks (Communication web-request-response)
-- Learn Databases(connection, queries, types of db)
 - Learn Simple Backend Engineering
+- Installing Go(IDE:Goland,Visual Studio),Database(MySQL) (https://learn.go.dev/)
 
 ### Week 3/4
-- Installing Go,Database (https://learn.go.dev/)
 - Learn Simple Go (https://gobyexample.com/)
 - Exercises in Go (https://learn.go.dev/)
+- Learn Databases(connection, queries, types of db)
 - Learn Web APIs (request, types of requests, response, status codes, messages)
 
 ### Week 5/6
@@ -23,6 +23,7 @@
 - Learn Backend Security (SQL injections,errors log...)
 - Learn the Command Line (CLI)
 - Learn Build and Task Automation(TeamUP)
+- Exercise write complex API(TEAM)
 
 ### Week 10/11/12
 - Project work and assignments
