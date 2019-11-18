@@ -7,8 +7,7 @@
 - Learn Web Hosting
 - Learn General Front-End Development
 - Learn Search Engine Optimization
-- Learn Version Control (git)
-- Learn the Command Line
+- Learn HTTP/Networks (Including CORS & WebSockets)
 - Learn HTML & CSS
 
 ### Week 3/4
@@ -21,8 +20,13 @@
 
 ### Week 7/8/9
 - Learn React
-- Learn Redux
+- Learn Learn Application State Management (Redux)
 - Learn Front-End Application Architecture
+- Learn Package Managing
+- Learn Version Control (git)
+- Learn the Command Line (aka CLI)
+- Learn Build and Task Automation
+- Learn Module loaders/bundlers
 
 ### Week 10/11/12
 - Project work and assignments
