@@ -18,7 +18,7 @@
 - Learn Code Version Control (git)
 
 ### Week 7/8/9
-- Learn Back-End Application Architecture
+- Learn Back-End Application Architecture(micro services,communication between micro services)
 - Learn Package Managing
 - Learn Backend Security (SQL injections,errors log...)
 - Learn the Command Line (CLI)
