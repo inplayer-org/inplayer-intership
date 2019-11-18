@@ -5,3 +5,5 @@
     <span style="font-size: 1.5rem; color: blue">InPlayer's Intership Program</span>
   </a>
 </h1>
+[Frontend](https://github.com/inplayer-org/inplayer-intership/blob/master/frontend.md)
+[Backend](https://github.com/inplayer-org/inplayer-intership/blob/master/backend.md)
