@@ -7,5 +7,5 @@
 </h1>
 
 ### Programs
-[Frontend](https://github.com/inplayer-org/inplayer-intership/blob/master/frontend.md)
-[Backend](https://github.com/inplayer-org/inplayer-intership/blob/master/backend.md)
+- [Frontend](https://github.com/inplayer-org/inplayer-intership/blob/master/frontend.md)
+- [Backend](https://github.com/inplayer-org/inplayer-intership/blob/master/backend.md)
