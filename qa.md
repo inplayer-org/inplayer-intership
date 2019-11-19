@@ -1,4 +1,4 @@
-# Inplayer's Qa Internship Program 
+# Inplayer's QA Internship Program 
 _SUBJECT >> DETAILS_  
 **1. SDLC and STLC**    
 **2. Agile and Waterfall Methods**
