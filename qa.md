@@ -1,6 +1,6 @@
 # InPlayer's QA Intership Program
 
-###PRIORITIZATION / SUBJECT >> DETAILS >> URLs
+### PRIORITIZATION / SUBJECT >> DETAILS >> URLs
 
 - SDLC and STLC >> https://www.softwaretestingmentor.com/stlc-vs-sdlc/
 - Agile and Waterfall Methods >> https://www.guru99.com/waterfall-vs-agile.html
