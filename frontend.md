@@ -1,4 +1,4 @@
-# InPlayer's Frontend Intership Program
+# InPlayer's Frontend Internship Program
 
 ### Week 1-2
 - Learn Internet/Web

@@ -1,4 +1,4 @@
-# InPlayer's Backend Intership Program
+# InPlayer's Backend Internship Program
 
 ### Week 1/2
 - Learn Internet/Web
