@@ -1,13 +1,15 @@
 # InPlayer's Web and Graphic Design Internship Program
+- [See the presentation](https://github.com/snaskova/inplayer-web-design-presentation/)
 
 ### Week 1-2
 - Basic HTML & CSS
   - Text formatting
   - CSS selectors
   - Pseudo elements
-  - Styling links with different states
+  - Styling links and pseudo classes
 - Web layout: Flexbox & Bootstrap grid
 - CSS preprocessor: SCSS
+  - SCSS Tutorial
 - BEM Methodology
 
 ### Week 3-4
