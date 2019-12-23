@@ -2,16 +2,15 @@
 
 ### Week 1/2
 - Learn Internet/Web
-- Learn HTTP/Networks (Communication web-request-response)
-- Learn Simple Backend Engineering
-- Installing Go(IDE:Goland,Visual Studio),Database(MySQL) (https://learn.go.dev/)
-
+- Learn HTTP/Networks (Communication web-request-response) [HTTP tutorials & reference](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- Learn Simple Backend Engineering https://roadmap.sh/backend
+- Installing Go (IDE:Goland,Visual Studio), Database(MySQL) (https://learn.go.dev/)
 ### Week 3/4
 - Learn Simple Go (https://gobyexample.com/)
 - Exercises in Go (https://learn.go.dev/)
-- Learn Databases(connection, queries, types of db)
-- Learn Web APIs (request, types of requests, response, status codes, messages)
-
+- Learn Databases (connection, queries, types of db)
+- Learn Web APIs ([REST Api tutorial](https://www.restapitutorial.com/resources.html), [API cheat-sheet](https://github.com/RestCheatSheet/api-cheat-sheet#api-design-cheat-sheet)) 
+ (request, types of requests, response, status codes, messages) 
 ### Week 5/6
 - Setup Go http server(Gorila MUX server driver Go) and connect it with database (MySQL)
 - Write simple API in Go (https://dev.to/moficodes/build-your-first-rest-api-with-go-2gcj)
