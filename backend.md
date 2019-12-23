@@ -2,9 +2,9 @@
 
 ### Week 1/2
 - Installing Go (IDE:Goland,Visual Studio), Database(MySQL) (https://learn.go.dev/)
+- Read [The little Go book](https://www.openmymind.net/The-Little-Go-Book/)
 - Learn Simple Go (https://gobyexample.com/)
 - Exercises in Go (https://learn.go.dev/)
-- Read [The little Go book](https://www.openmymind.net/The-Little-Go-Book/)
 - Learn Internet/Web
 - Learn HTTP/Networks (Communication web-request-response) [HTTP tutorials & reference](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 
