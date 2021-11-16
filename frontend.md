@@ -7,7 +7,6 @@
 - Learn Web Hosting
 - Learn General Front-End Development
 - Learn Search Engine Optimization
-- Learn HTTP/Networks (Including CORS & WebSockets)
 - Learn HTML & CSS
 
 ### Week 3-4
