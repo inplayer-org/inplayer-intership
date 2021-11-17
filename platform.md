@@ -24,9 +24,12 @@
 - Learn Application Architecture
 - Learn EKS
 - Learn Security in the Cloud
-- Learn monitoring and logging
 - Learn AWS services (RDS, EC2, VPC, S3, Clodfront..etc)
 - Exercise AWS Cloudfront distribution using static sites on S3
 
-### Week 10/11/12
+### Week 10/11
 - Project work and assignments
+- Monitoring and logging
+
+### Week 12/13/14/15/16
+- Team project
