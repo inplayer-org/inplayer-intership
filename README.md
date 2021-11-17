@@ -10,5 +10,6 @@
 
 - [Frontend](https://github.com/inplayer-org/inplayer-intership/blob/master/frontend.md)
 - [Backend](https://github.com/inplayer-org/inplayer-intership/blob/master/backend.md)
+- [Platform](https://github.com/inplayer-org/inplayer-intership/blob/master/platform.md)
 - [QA](https://github.com/inplayer-org/inplayer-intership/blob/master/qa.md)
 - [Web and Graphic Design](https://github.com/inplayer-org/inplayer-intership/blob/master/webdesign.md)
