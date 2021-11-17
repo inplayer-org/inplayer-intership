@@ -29,3 +29,4 @@
 - Exercise AWS Cloudfront distribution using static sites on S3
 
 ### Week 10/11/12
+- Project work and assignments
