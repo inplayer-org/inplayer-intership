@@ -1,54 +1,49 @@
-# Inplayer's QA Internship Program 
+### ****Week 1-2****
 
-_SUBJECT >> DETAILS_  
+- Introduction to InPlayer processes
+- Introduction to InPlayer platform
+- Introduction to SCRUM, Agile methodologies
+- Introduction to Manual testing
+- Non-Functional testing: Performance, Load, Security Testing
+- Functional testing: Sanity, Smoke, Regression
 
-**1. SDLC and STLC**    
+### ****Week 2-4****
 
-**2. Agile and Waterfall Methods**
+- Introduction to Merchant Panel
+- Introduction to Paywall
+- Introduction to Admin Panel
+- Introduction to webhooks
+- Exercises for end to end scenarios on the platform
+- Introduction to Notion workspace
+- Test case presentation
+- Use (test) scenario/ test cases/ test prioritization >> writing, test prioritization, negative scenarios
 
-**3. Functional and Non-Functional Testing**  
+### ****Week 4-6****
 
-**4. Functional: Sanity, Smoke, Regression**
+- Exercises for test cases
+- Bug reporting presentation
+- Exercises for creating bugs
+- Testing techniques (blackbox, whitebox, boundary values)
+- Test case management tool (PractiTest)
 
-**5. Non-Functional: Performance, Load, Security Testing**
+### ****Week 6-10****
 
-**6. Soft skills**  
+- Creating testing reports
+- Exercises for creating test reports
+- Regression testing, exploratory testing; types of testing >> staging, production
+- Installing Postman and setting up workspace
+- API introduction
+- API testing
+- Introduction to workspace and automated tests
+- Automation testing exercises
+- Writing automation tests in Postman from scratch
 
-**7. Ownership of task**  
+### ****Week 10-11****
 
-**8. Use (test) scenario/ test cases/ test prioritisation >>** writing, test prioritisation, negative scenarios 
+- Continuous integration with GitHub (Postman tests)
+- Introduction to SQL Workbench and database
+- Kibana introduction
 
-**9. Reports for testing progress**
+### ****Week 11-16****
 
-**10. Bug reporting >>**
-
- - Defect_ID - Unique identification number for the defect.
- - Defect Description - Detailed description of the Defect including information about the module in which Defect was found.
- - Version - Version of the application in which defect was found.
- - Steps - Detailed steps along with screenshots with which the developer can reproduce the defects.
- - Reference - where in you Provide reference to the documents like: requirements, design, architecture.
- - Detected By - Name/ID of the tester who raised the defect
- - Status - Priority and severity
- 
-**11. Ad-hoc testing, exploratory testing; types of testing** >> staging, production, localhost   
-
-**12. Regression testing**  
-
-**13. Why testing**
-
-**14. Testing Life Cycle** >> 
-
-- Requirement Analysis - analysing the requirement
-- Test Planning - resources and time estimation
-- Test case development - analysing and evaluating scenarios based on communication with all integrated teams
-- Test Environment setup - to do smoke test
-- Test Execution - executing test cases bug reporting
-- Test Cycle closure - evidencing testing conclusions 
-
-**15. Api testing** >>
-
-- Return value based on input condition: it is relatively easy to test, as input can be defined and results can be authenticated
-- Update data structure: Updating data structure will have some outcome or effect on the system, and that should be authenticated
-- Modify certain resources: If API call modifies some resources then it should be validated by accessing respective resources
-
-**16. Test management tools - Testing Management Tools**
+- Project work and assignments
